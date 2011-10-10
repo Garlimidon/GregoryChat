@@ -1,0 +1,27 @@
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+c:\users\rialsa\documents\visual studio 2010\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+F:\Chat\Cliente\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+F:\Chat\Cliente\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Chat.resources
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Garlimidon\Desktop\Chat\Cliente\WindowsFormsApplication9\obj\x86\Debug\GenerateResource.write.1.tlog
